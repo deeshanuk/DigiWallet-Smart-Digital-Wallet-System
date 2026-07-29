@@ -247,11 +247,7 @@ This project demonstrates practical implementation of:
 
 Deeshanu Kundu
 
-MCA Student | Full Stack Web Developer | UI/UX Enthusiast
-
-- LinkedIn: *Add your LinkedIn profile*
-- GitHub: *Add your GitHub profile*
-- Email: *Add your email*
+MCA Student | Full Stack Web Developer
 
 ---
 
