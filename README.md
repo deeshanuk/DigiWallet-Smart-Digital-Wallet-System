@@ -257,4 +257,4 @@ This project is developed for educational and learning purposes. Feel free to ex
 
 ---
 
-### ⭐ If you found this project helpful, consider giving it a star on GitHub!
+# If you found this project helpful, consider giving it a star on GitHub!
